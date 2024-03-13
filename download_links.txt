@@ -1,0 +1,5 @@
+data/song_data.csv (renamed)
+https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks?resource=download
+
+data/playlists/*
+https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files
